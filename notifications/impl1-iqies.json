@@ -1,0 +1,18 @@
+[
+  {
+    "id": "global-maintenance",
+    "type": "global",
+    "enabled": false,
+    "message": "This is a preview environment for testing and training purposes only. ",
+    "dismissible": false,
+    "alertType": "info"
+  },
+  {
+    "id": "training-home-warning",
+    "type": "home",
+    "enabled": false,
+    "message": "Only Home Health Agency data is available. Please do not enter Protected Health Information (PHI) or Personally Identifiable Information (PII) in this environment.",
+    "dismissible": true,
+    "alertType": "warning"
+  }
+]

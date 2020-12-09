@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "iQIES will be unavailable Thursday, September 24 from 8PM ET to 10PM ET for scheduled maintenance.",
+    "enabled": true,
+    "message": "iQIES will be unavailable Friday, December 11th from 8PM ET to 11PM ET for scheduled maintenance.",
     "dismissible": false,
     "alertType": "info"
   }

@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "January 20, 2021 - The iQIES preview (UAT) environment is undergoing maintenance and will be unavailable until further notice. We will notify the user community when UAT activities, including the collection of user feedback, resumes. Please note that as of September 26, the email iqies-uat@ventera.com will no longer be active and support for this training environment will be temporarily unavailable. If you have any questions, please email the QIES/iQIES Service Center at: iqies@cms.hhs.gov or call 1-800-339-9313.",
+    "message": "January 25, 2021 - The iQIES preview (UAT) environment remains available, however, we are not accepting user feedback at this time. We will notify the user community when UAT activities, including the collection of user feedback, resumes. Please note that as of September 26, the email iqies-uat@ventera.com will no longer be active and support for this training environment will be temporarily unavailable. If you have any questions, please email the QIES/iQIES Service Center at: iqies@cms.hhs.gov or call 1-800-339-9313.",
     "dismissible": false,
     "alertType": "info"
   },

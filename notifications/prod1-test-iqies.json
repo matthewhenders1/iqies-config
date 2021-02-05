@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "iQIES will be unavailable Thursday, February 4th from 8PM ET to 11PM ET for scheduled maintenance.",
     "dismissible": false,
     "alertType": "info"

@@ -6,5 +6,13 @@
     "message": "iQIES will be unavailable Thursday, February 4th from 8PM ET to 11PM ET for scheduled maintenance.",
     "dismissible": false,
     "alertType": "info"
+  },
+  {
+    "id": "issue",
+    "type": "global",
+    "enabled": true,
+    "message": "iQIES is experiencing degradation currently.  We are aware of the issue and working on a resolution.",
+    "dismissible": false,
+    "alertType": "info"
   }
 ]

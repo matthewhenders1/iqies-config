@@ -2,9 +2,9 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "iQIES will be unavailable Thursday, May 20th from 8PM to 11PM ET for scheduled maintenance.",
-    "dismissible": false,
+    "enabled": true,
+    "message": "iQIES scheduled maintenance Tuesday, June 1, 2021 8PM ET to 11PM ET. Users can continue to submit assessment data in iQIES during this period; however, there will be a delay in the availability of the system-generated final validation reports.  The reports will become available once the maintenance is complete.",
+    "dismissible": true,
     "alertType": "info"
   }
 ]

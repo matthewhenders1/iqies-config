@@ -1,0 +1,10 @@
+[
+  {
+    "id": "global-maintenance",
+    "type": "global",
+    "enabled": false,
+    "message": "Notification test",
+    "dismissible": false,
+    "alertType": "info"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "global-maintenance",
+    "type": "global",
+    "enabled": true,
+    "message": "This is the iQIES Training Environment for training and testing purposes only. We encourage you to submit feedback while you preview the iQIES Training Environment. Your input is valuable and will help us continue to improve the system. To submit feedback, please send an email to iqies@cms.hhs.gov using the subject line: iQIES Training Environment Feedback. If you have any questions, please contact our QIES/iQIES Service Center at: iqies@cms.hhs.gov or call 1-800-339-9313",
+    "dismissible": false,
+    "alertType": "info"
+  },
+  {
+    "id": "training-home-warning",
+    "type": "home",
+    "enabled": true,
+    "message": "This is a preview environment for testing and training purposes only. Only Home Health Agency data is available. Please do not enter Protected Health Information (PHI) or Personally Identifiable Information (PII) in this environment.",
+    "dismissible": true,
+    "alertType": "warning"
+  }
+]

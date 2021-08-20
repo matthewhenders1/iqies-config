@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "iQIES S&C functionality will be unavailable from Friday, August 19, 2021 8 PM EDT until Saturday, August 20, 2021 5 PM EDT, for scheduled maintenance.",
+    "message": "iQIES S&C functionality will be unavailable from Friday, August 20, 2021 8 PM EDT until Saturday, August 21, 2021 5 PM EDT, for scheduled maintenance.",
     "dismissible": true,
     "alertType": "info"
   }

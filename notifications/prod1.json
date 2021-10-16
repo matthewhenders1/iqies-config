@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "iQIES S&C functionality will be unavailable from Saturday, October 16, 2021 11 AM ET until Sunday, October 17, 2021 8 AM ET, for scheduled maintenance.",
     "dismissible": true,
     "alertType": "info"

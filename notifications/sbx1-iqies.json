@@ -2,9 +2,9 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
+    "enabled": true,
     "message": "Notification test",
-    "dismissible": false,
+    "dismissible": true,
     "alertType": "info"
   }
 ]

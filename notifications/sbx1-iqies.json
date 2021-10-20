@@ -4,7 +4,7 @@
     "type": "global",
     "enabled": true,
     "message": "Notification test",
-    "dismissible": true,
-    "alertType": "info"
+    "dismissible": false,
+    "alertType": "warning"
   }
 ]

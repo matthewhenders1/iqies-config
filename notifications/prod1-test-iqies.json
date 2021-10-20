@@ -11,7 +11,7 @@
     "id": "intake-summmary-launch-3",
     "type": "global",
     "enabled": true,
-    "message": "Due to an identified S&C specific data migration issue, we are notifying S&C users of the following:<br \>We have identified a Data Migration issue for the States that launched HHA on October 18 related to intakes. The information in the Summary of Complaint section may not be correct for the intake the note is currently associated with.  The data in ACTS has not been changed if you need to refer to the information. This issue does not affect new intakes added into iQIES or CMS Atlanta or Chicago users. This issue is expected to be resolved within the next 24 hours, this fix will resolve incorrect data. Until that time, we are asking S&C users who are impacted to refrain from making any adjustments to the Summary of Complaint section.",
+    "message": "<p>Due to an identified S&C specific data migration issue, we are notifying S&C users of the following:<br \>We have identified a Data Migration issue for the States that launched HHA on October 18 related to intakes. The information in the Summary of Complaint section may not be correct for the intake the note is currently associated with.  The data in ACTS has not been changed if you need to refer to the information. This issue does not affect new intakes added into iQIES or CMS Atlanta or Chicago users. This issue is expected to be resolved within the next 24 hours, this fix will resolve incorrect data. Until that time, we are asking S&C users who are impacted to refrain from making any adjustments to the Summary of Complaint section.</p>",
     "dismissible": false,
     "alertType": "warning"
   }

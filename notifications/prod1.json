@@ -6,13 +6,5 @@
     "message": "iQIES S&C functionality will be unavailable from Saturday, October 16, 2021 11 AM ET until Sunday, October 17, 2021 8 AM ET, for scheduled maintenance.",
     "dismissible": true,
     "alertType": "info"
-  },
-  {
-    "id": "intake-summmary-launch-3",
-    "type": "global",
-    "enabled": true,
-    "message": "The S&C data migration issue identified on Oct. 20th, affecting the iQIES Summary of Complaint section has been resolved.",
-    "dismissible": false,
-    "alertType": "info"
   }
 ]

@@ -6,5 +6,13 @@
     "message": "iQIES S&C functionality will be unavailable from Saturday, October 16, 2021 11 AM ET until Sunday, October 17, 2021 8 AM ET, for scheduled maintenance.",
     "dismissible": true,
     "alertType": "info"
+  },
+  {
+    "id": "irf-subunit",
+    "type": "global",
+    "enabled": true,
+    "message": "Beginning Friday, November 19 at 8:00 ET there will be a system downtime that prevents HHA, IRF, and LTCH providers from submitting assessments and accessing reports in iQIES.  This downtime is expected to last approximately three hours.",
+    "dismissible": true,
+    "alertType": "info"
   }
 ]

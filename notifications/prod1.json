@@ -10,7 +10,7 @@
   {
     "id": "irf-subunit",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "Beginning Friday, November 19 at 8:00 ET there will be a system downtime that prevents HHA, IRF, and LTCH providers from submitting assessments and accessing reports in iQIES.  This downtime is expected to last approximately three hours.",
     "dismissible": true,
     "alertType": "info"

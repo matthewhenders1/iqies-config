@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "iQIES S&C functionality will be unavailable from Friday, September 30, 2022 8PM ET until Sunday, October 2, 2022 8AM ET, for scheduled maintenance.",
+    "message": "The Internet Quality Improvement and Evaluation System (iQIES) Survey and Certification (S&C) functionality will be unavailable from Friday, September 30, 2022 8 p.m. ET until Sunday, October 2, 2022 8 a.m. ET, for scheduled maintenance. The Workload Management Home page will display but links to areas of the application will not be actionable during the scheduled maintenance period.",
     "dismissible": false,
     "alertType": "warning"
   }

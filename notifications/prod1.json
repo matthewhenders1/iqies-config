@@ -2,7 +2,7 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": true,
+    "enabled": false,
     "message": "The Internet Quality Improvement and Evaluation System (iQIES) Survey and Certification (S&C) functionality will be unavailable from Friday, September 30, 2022 8 p.m. ET until Sunday, October 2, 2022 8 a.m. ET, for scheduled maintenance. The Workload Management Home page will display but links to areas of the application will not be functional during the scheduled maintenance period.",
     "dismissible": true,
     "alertType": "info"

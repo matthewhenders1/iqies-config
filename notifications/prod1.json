@@ -3,7 +3,7 @@
     "id": "global-maintenance",
     "type": "global",
     "enabled": true,
-    "message": "This message is to inform you that S&C Functionality for Hospice providers has been successfully migrated into iQIES and is Live including the historical data that was migrated from QIES. Please note that North Carolina sites, due to Hurricane Ian, are still offline and NC Historical Hospice data was not migrated. Once NC sites are back online, the team will work with them to schedule their migration.",
+    "message": "This message is to inform you that S&C Functionality for Hospice providers has been successfully migrated into iQIES and is Live including the historical data that was migrated from QIES. Please note that North Carolina sites, due to Hurricane Ian, are still offline and NC data is not migrated. NC State Agency users should not use the Hospice S&C functionality in IQES until notified otherwise. The iQIES team will notify NC sites when they can begin using the new functionality in iQIES.",
     "dismissible": true,
     "alertType": "info"
   }

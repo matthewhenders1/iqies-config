@@ -2,8 +2,8 @@
   {
     "id": "global-maintenance",
     "type": "global",
-    "enabled": false,
-    "message": "The Internet Quality Improvement and Evaluation System (iQIES) Survey and Certification (S&C) functionality will be unavailable from Friday, September 30, 2022 8 p.m. ET until Sunday, October 2, 2022 8 a.m. ET, for scheduled maintenance. The Workload Management Home page will display but links to areas of the application will not be functional during the scheduled maintenance period.",
+    "enabled": true,
+    "message": "This message is to inform you that S&C Functionality for Hospice providers has been successfully migrated into iQIES and is Live including the historical data that was migrated from QIES. Please note that North Carolina sites, due to Hurricane Ian, are still offline and NC Historical Hospice data was not migrated. Once NC sites are back online, the team will work with them to schedule their migration.",
     "dismissible": true,
     "alertType": "info"
   }
